@@ -21,6 +21,6 @@ Target of Tribute: Bill Gates
 
 1. The img element should be centered within its parent element.
 ## Deployment
-Page is presently deployed on Github pages due to its static nature. Available at:
+Page is presently deployed on Github pages due to its static nature. Available at: https://wade-roberts.github.io/FCC-Tribute-Page/
 ## Testing
 When viewing the page through it's Github Pages Deployment, simply click the small icon in the top left, select **"Tribute Page"** and run the tests to see them completed.
